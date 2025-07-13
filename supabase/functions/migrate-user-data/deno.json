@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+    "jsxImportSource": "https://esm.sh/react@18.2.0/",
+    "lib": ["deno.ns", "deno.unstable"],
+    "types": ["https://deno.land/x/supabase/functions.ts"]
+  }
+} 

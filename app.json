@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "DewyApp",
+    "slug": "dewy-app",
+    "scheme": "dewy-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.matt-vijay.dewy-app",
+      "infoPlist": {}
+    },
+    "android": {
+      "package": "com.mattvijay.dewyapp"
+    },
+    "web": {}
+  }
+}

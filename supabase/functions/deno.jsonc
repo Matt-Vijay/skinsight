@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "deploy": "supabase functions deploy --project-ref your-project-ref",
+    "serve": "supabase functions serve"
+  },
+  "imports": {
+    "std/": "https://deno.land/std@0.170.0/"
+  }
+} 

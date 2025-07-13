@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "djwt": "https://deno.land/x/djwt@v2.8/mod.ts",
+    "std/": "https://deno.land/std@0.177.0/",
+    "base64": "https://deno.land/std@0.177.0/encoding/base64.ts"
+  }
+}
